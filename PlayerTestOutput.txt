@@ -1,0 +1,2 @@
+Please enter health points for both players (2 ~ 20): Please enter an integer: Please enter an integer: Your total health points are: 20
+Which card would you like to play? Please choose a card from your hand: 
